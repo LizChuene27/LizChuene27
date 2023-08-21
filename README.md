@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Liz Chuene</h1>
+<h1 align="center">Hi 👋, I'm Liz </h1>
 <h3 align="center">A highly-motivated Full-Stack Developer with passion for frontend development and user experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lizchuene27&label=Profile%20views&color=0e75b6&style=flat" alt="lizchuene27" /> </p>
