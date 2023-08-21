@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lizchuene53@gmail.com**
 
-- ⚡ Fun fact **Previously a Finance professional and successfully tranistioned into tech**
+- ⚡ Fun fact **Previously a Finance professional and successfully transitioned into tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
