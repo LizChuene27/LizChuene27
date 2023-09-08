@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on **Career transitions**
-
 - 📫 How to reach me **lizchuene53@gmail.com**
 
 - ⚡ Fun fact **Previously a Finance professional and successfully transitioned into tech**
