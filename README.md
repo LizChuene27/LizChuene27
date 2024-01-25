@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elizabeth, preferably Liz :) </h1>
-<h3 align="center">A highly-motivated Full-Stack Developer with passion for frontend development and user experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lizchuene27&label=Profile%20views&color=0e75b6&style=flat" alt="lizchuene27" /> </p>
 
-- 🌱 I’m currently learning **Python**
 - 🌱 Click to see my academic journey **https://www.hyperiondev.com/portfolio/152417/**
 - 📫 How to reach me **elizabethchuene53@gmail.com**
 - ⚡ Fun fact **Previously a Finance professional and successfully transitioned into tech**
