@@ -15,7 +15,7 @@
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Next](https://img.shields.io/badge/next-%2320232a.svg?style=flat&logo=next&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%2320232a.svg?style=flat&logo=next.js&logoColor=%2361DAFB)
 ![Express](https://img.shields.io/badge/Express-1572B6?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=flat&logo=mongodb&logoColor=%2361DAFB)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
