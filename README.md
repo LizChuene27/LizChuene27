@@ -27,7 +27,7 @@
 
 
 
-
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lizchuene27&show_icons=true&locale=en&layout=compact" alt="lizchuene27" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lizchuene27&show_icons=true&locale=en" alt="lizchuene27" /></p>
