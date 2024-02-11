@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elizabeth, preferably Liz :) </h1>
 
+<div align="center" width="50">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lizchuene27&label=Profile%20views&color=0e75b6&style=flat" alt="lizchuene27" /> </p>
 
 - 🌱 Click to see my academic journey **https://www.hyperiondev.com/portfolio/152417/**
