@@ -5,7 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lizchuene27&label=Profile%20views&color=0e75b6&style=flat" alt="lizchuene27" /> </p>
 
 -🌱 Click to see my academic journey **https://www.hyperiondev.com/portfolio/152417/**
+
 -📫 How to reach me **elizabethchuene53@gmail.com**
+
 -⚡ Fun fact **Previously a Finance professional and successfully transitioned into tech**
 
   
