@@ -8,7 +8,7 @@
 
 -📫 How to reach me **liz.chuene53@gmail.com**
 
--⚡ Fun fact **Previously a Finance professional and successfully transitioned into tech**
+
 
   
 ## 🛠  Technologies and tools
